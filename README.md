@@ -1,2 +1,2 @@
 # AWS-_ComputerVision_Gluoncv
-Notebook containing computer vision machine learning codes.
+Notebooks containing computer vision machine learning codes.
